@@ -7,14 +7,14 @@ h1 {
     width: 200px;
     margin: 10px auto;
 }
-.one {
-    background-color: rgb(255, 255, 0);
+.red {
+    background: linear-gradient(180deg, rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
 }
-.two {
-    background-color: hsl(240, 100%, 50%);
+.green {
+    background: linear-gradient( #55680D, #71F53E, #116C31);
 }
-.three {
-    background-color: rgb(255, 0, 255);
+.blue {
+    linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
 }
 .container {
     background-color: rgb(255, 255, 255);
